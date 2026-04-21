@@ -21,3 +21,4 @@ Run main.py
 BFS Path: ['A', 'C', 'F']
 DFS Path: ['A', 'B', 'E', 'F']
 Added comments to code
+Updated README
