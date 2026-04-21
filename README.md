@@ -20,3 +20,4 @@ Run main.py
 ## Sample Output
 BFS Path: ['A', 'C', 'F']
 DFS Path: ['A', 'B', 'E', 'F']
+Added comments to code
